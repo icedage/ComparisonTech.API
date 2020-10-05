@@ -1,0 +1,8 @@
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\bin\Debug\netstandard2.0\ComparisonTech.Persistence.deps.json
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\bin\Debug\netstandard2.0\ComparisonTech.Persistence.dll
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\obj\Debug\netstandard2.0\ComparisonTech.Persistence.AssemblyInfoInputs.cache
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\obj\Debug\netstandard2.0\ComparisonTech.Persistence.AssemblyInfo.cs
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\bin\Debug\netstandard2.0\ComparisonTech.Persistence.pdb
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\obj\Debug\netstandard2.0\ComparisonTech.Persistence.csproj.CoreCompileInputs.cache
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\obj\Debug\netstandard2.0\ComparisonTech.Persistence.dll
+C:\projects\ComparisonTech.API\ComparisonTech.Persistence\obj\Debug\netstandard2.0\ComparisonTech.Persistence.pdb
