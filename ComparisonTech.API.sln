@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComparisonTech.API", "ComparisonTech.API\ComparisonTech.API.csproj", "{A5909FF5-2B7E-4F47-8AD0-E2D1D3547F10}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonTech.Persistence", "ComparisonTech.Persistence\ComparisonTech.Persistence.csproj", "{EE08B23C-8BA6-4CA3-89E1-D209BE123909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComparisonTech.Persistence", "ComparisonTech.Persistence\ComparisonTech.Persistence.csproj", "{EE08B23C-8BA6-4CA3-89E1-D209BE123909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparisonTech.API.Tests", "ComparisonTech.API.Tests\ComparisonTech.API.Tests.csproj", "{810DEFAF-0300-4422-A49C-086212593C3F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComparisonTech.API.Tests", "ComparisonTech.API.Tests\ComparisonTech.API.Tests.csproj", "{810DEFAF-0300-4422-A49C-086212593C3F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
