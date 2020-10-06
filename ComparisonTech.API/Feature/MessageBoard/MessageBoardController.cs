@@ -34,7 +34,7 @@ namespace ComparisonTech.API.Feature.MessageBoard
         [ProducesResponseType(typeof(MessageBoardResponse), 200)]
         [ProducesResponseType(typeof(StatusCodeResult), 440)]
         [ProducesResponseType(typeof(StatusCodeResult), 404)]
-        [HttpGet("quotes")]
+        [HttpGet("messageBoard")]
         public async Task<ActionResult<MessageBoardResponse>> Get([FromHeader(Name = "X-Anonymous-UserTracking")][Required] string headerValue)
         {
             var response = await _getMessageBoardHandler.ExecuteAsync(headerValue);
